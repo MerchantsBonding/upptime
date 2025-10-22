@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: MerchantsBonding # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -14,15 +14,14 @@ status-website:
   # cname: merchantsbonding.com
   baseUrl: /upptime
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-
   name: Merchants Bonding Status
-  introTitle: "Merchants Status Page"
-  introMessage: Uptime status of Merchants' apps.
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  # introTitle: "Merchants Status Page"
+  # introMessage: Uptime status of Merchants' apps.
+  # navbar:
+    # - title: Status
+    #   href: /
+    # - title: GitHub
+    #   href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
