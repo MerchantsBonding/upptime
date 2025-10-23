@@ -3,14 +3,76 @@ owner: MerchantsBonding # Your GitHub organization or username, where this repos
 repo: upptime # The name of this repository
 
 sites:
-  - name: MBC
-    url: https://secure2.merchantsbonding.com/up
+  - name: API
+    url: https://api.merchantsbonding.com/up
+  - name: Beancounter
+    url: https://beancounter.merchantsbonding.com/up
+  - name: Commish
+    url: https://commish.merchantsbonding.com/up
+  - name: Contract Rating
+    url: https://rates.merchantsbonding.com/up
+  - name: Credit Puller
+    url: https://credit-puller.merchantsbonding.com/up
+  - name: Event History
+    url: https://event-history.merchantsbonding.com/up
+  - name: Headmaster
+    url: https://headmaster.merchantsbonding.com/up
   - name: Hubble
     url: https://hub.merchantsbonding.com/up
-  - name: MBC (Staging)
-    url: https://secure2.mbctestweb.com/up
+  - name: HubExpress
+    url: https://hubexpress.merchantsbonding.com/up
+  - name: MBC
+    url: https://secure2.merchantsbonding.com/up
+  - name: Navvy
+    url: https://navigator.merchantsbonding.com/up
+  - name: Piedpiper
+    url: https://pay.merchantsbonding.com/up
+  - name: PDF Helper
+    url: https://pdfhelper.merchantsbonding.com/up
+  - name: Skyfall
+    url: https://skyfall.merchantsbonding.com/up
+  - name: Undertaker
+    url: https://undertaker.merchantsbonding.com/up
+  - name: Rating Engine
+    url: https://rating-engine.merchantsbonding.com/up
+  - name: Von Trapp
+    url: https://vontrapp.merchantsbonding.com/up
+
+  - name: API (Staging)
+    url: https://api.mbctestweb.com/up
+  - name: Beancounter (Staging)
+    url: https://beancounter.mbctestweb.com/up
+  - name: Commish (Staging)
+    url: https://commish.mbctestweb.com/up
+  - name: Contract Rating (Staging)
+    url: https://rates.mbctestweb.com/up
+  - name: Credit Puller (Staging)
+    url: https://credit-puller.mbctestweb.com/up
+  - name: Event History (Staging)
+    url: https://event-history.mbctestweb.com/up
+  - name: Headmaster (Staging)
+    url: https://headmaster.mbctestweb.com/up
   - name: Hubble (Staging)
     url: https://hub.mbctestweb.com/up
+  - name: HubExpress (Staging)
+    url: https://hubexpress.mbctestweb.com/up
+  - name: MBC (Staging)
+    url: https://secure2.mbctestweb.com/up
+  - name: Navvy (Staging)
+    url: https://navigator.mbctestweb.com/up
+  - name: Piedpiper (Staging)
+    url: https://pay.mbctestweb.com/up
+  - name: PDF Helper (Staging)
+    url: https://pdfhelper.mbctestweb.com/up
+  - name: Skyfall (Staging)
+    url: https://skyfall.mbctestweb.com/up
+  - name: Undertaker (Staging)
+    url: https://undertaker.mbctestweb.com/up
+  - name: Rating Engine (Staging)
+    url: https://rating-engine.mbctestweb.com/up
+  - name: Von Trapp (Staging)
+    url: https://vontrapp.mbctestweb.com/up
+    
 
 status-website:
   baseUrl: /upptime
