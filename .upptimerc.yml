@@ -13,19 +13,16 @@ sites:
     url: https://hub.mbctestweb.com/up
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: merchantsbonding.com
   baseUrl: /upptime
-  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Merchants Bonding Status
-  # introTitle: "Merchants Status Page"
-  # introMessage: Uptime status of Merchants' apps.
-  # navbar:
-    # - title: Status
-    #   href: /
-    # - title: GitHub
-    #   href: https://github.com/$OWNER/$REPO
+  introTitle: "Merchants Status Page"
+  introMessage: Uptime status of Merchants' apps.
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
