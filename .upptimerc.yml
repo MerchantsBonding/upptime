@@ -18,6 +18,7 @@ status-website:
   name: Merchants Bonding Status
   introTitle: "Merchants Status Page"
   introMessage: Uptime status of Merchants' apps.
+  robotsText: "User-agent: *\nDisallow: /"
   navbar:
     - title: Status
       href: /
