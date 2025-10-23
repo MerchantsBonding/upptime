@@ -13,9 +13,7 @@ sites:
     url: https://hub.mbctestweb.com/up
 
 status-website:
-  publish: true
   baseUrl: /upptime
-  url: https://fantastic-happiness-2e9o2ow.pages.github.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Merchants Bonding Status
   introTitle: "Merchants Status Page"
