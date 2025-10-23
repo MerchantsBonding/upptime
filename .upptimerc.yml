@@ -13,6 +13,7 @@ sites:
     url: https://hub.mbctestweb.com/up
 
 status-website:
+  publish: true
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Merchants Bonding Status
