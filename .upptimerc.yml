@@ -32,7 +32,7 @@ sites:
   - name: Skyfall
     url: https://skyfall.merchantsbonding.com/up
   - name: Undertaker
-    url: https://undertaker.merchantsbonding.com/up
+    url: https://underwriting.merchantsbonding.com/up
   - name: Rating Engine
     url: https://rating-engine.merchantsbonding.com/up
   - name: Von Trapp
@@ -67,7 +67,7 @@ sites:
   - name: Skyfall (Staging)
     url: https://skyfall.mbctestweb.com/up
   - name: Undertaker (Staging)
-    url: https://undertaker.mbctestweb.com/up
+    url: https://underwriting.mbctestweb.com/up
   - name: Rating Engine (Staging)
     url: https://rating-engine.mbctestweb.com/up
   - name: Von Trapp (Staging)
