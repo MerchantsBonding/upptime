@@ -306,7 +306,7 @@
     "timeMonth": 210,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2025-10-25": 7,
+      "2025-10-25": 34,
       "2025-10-24": 1440,
       "2025-10-23": 305
     }
@@ -532,18 +532,19 @@
     "url": "https://pdfhelper.mbctestweb.com/up",
     "icon": "https://icons.duckduckgo.com/ip3/pdfhelper.mbctestweb.com.ico",
     "slug": "pdf-helper-staging",
-    "status": "up",
-    "uptime": "63.10%",
-    "uptimeDay": "55.10%",
-    "uptimeWeek": "63.10%",
-    "uptimeMonth": "63.10%",
-    "uptimeYear": "63.10%",
-    "time": 996,
-    "timeDay": 1559,
-    "timeWeek": 996,
-    "timeMonth": 996,
-    "timeYear": 996,
+    "status": "down",
+    "uptime": "63.64%",
+    "uptimeDay": "56.03%",
+    "uptimeWeek": "63.64%",
+    "uptimeMonth": "63.64%",
+    "uptimeYear": "63.64%",
+    "time": 1472,
+    "timeDay": 1558,
+    "timeWeek": 1472,
+    "timeMonth": 1472,
+    "timeYear": 1472,
     "dailyMinutesDown": {
+      "2025-10-25": 0,
       "2025-10-24": 647
     }
   },
