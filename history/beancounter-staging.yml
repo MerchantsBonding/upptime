@@ -1,7 +1,7 @@
 url: https://beancounter.mbctestweb.com/up
-status: down
-code: 503
-responseTime: 350
-lastUpdated: 2025-10-27T15:25:57.748Z
+status: up
+code: 200
+responseTime: 719
+lastUpdated: 2025-10-27T16:38:39.825Z
 startTime: 2025-10-23T18:54:58.977Z
 generator: Upptime <https://github.com/upptime/upptime>
