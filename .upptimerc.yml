@@ -35,8 +35,6 @@ sites:
     url: https://underwriting.merchantsbonding.com/up
   - name: Rating Engine
     url: https://rating-engine.merchantsbonding.com/up
-  - name: Von Trapp
-    url: https://vontrapp.merchantsbonding.com/up
 
   - name: API (Staging)
     url: https://api.mbctestweb.com/up
@@ -70,8 +68,6 @@ sites:
     url: https://underwriting.mbctestweb.com/up
   - name: Rating Engine (Staging)
     url: https://rating-engine.mbctestweb.com/up
-  - name: Von Trapp (Staging)
-    url: https://vontrapp.mbctestweb.com/up
     
 
 status-website:
