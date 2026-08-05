@@ -1,7 +1,7 @@
 url: https://headmaster.mbctestweb.com/up
-status: down
-code: 503
-responseTime: 128
-lastUpdated: 2026-08-05T18:11:18.718Z
+status: up
+code: 200
+responseTime: 417
+lastUpdated: 2026-08-05T18:48:31.082Z
 startTime: 2025-10-23T18:55:02.675Z
 generator: Upptime <https://github.com/upptime/upptime>
