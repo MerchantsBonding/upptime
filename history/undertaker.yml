@@ -1,7 +1,7 @@
 url: https://underwriting.merchantsbonding.com/up
-status: up
-code: 200
-responseTime: 156
-lastUpdated: 2026-08-21T23:05:26.707Z
+status: down
+code: 503
+responseTime: 34
+lastUpdated: 2026-08-22T13:28:11.317Z
 startTime: 2025-10-23T18:54:52.905Z
 generator: Upptime <https://github.com/upptime/upptime>
