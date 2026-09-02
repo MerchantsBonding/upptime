@@ -9,8 +9,6 @@ sites:
     url: https://beancounter.merchantsbonding.com/up
   - name: Commish
     url: https://commish.merchantsbonding.com/up
-  - name: Contract Rating
-    url: https://rates.merchantsbonding.com/up
   - name: Credit Puller
     url: https://credit-puller.merchantsbonding.com/up
   - name: Event History
@@ -42,8 +40,6 @@ sites:
     url: https://beancounter.mbctestweb.com/up
   - name: Commish (Staging)
     url: https://commish.mbctestweb.com/up
-  - name: Contract Rating (Staging)
-    url: https://rates.mbctestweb.com/up
   - name: Credit Puller (Staging)
     url: https://credit-puller.mbctestweb.com/up
   - name: Event History (Staging)
