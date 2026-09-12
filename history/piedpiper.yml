@@ -1,7 +1,7 @@
 url: https://pay.merchantsbonding.com/up
-status: down
-code: 503
-responseTime: 83
-lastUpdated: 2026-09-12T14:21:02.801Z
+status: up
+code: 200
+responseTime: 96
+lastUpdated: 2026-09-12T14:54:40.349Z
 startTime: 2025-10-23T18:54:50.715Z
 generator: Upptime <https://github.com/upptime/upptime>
