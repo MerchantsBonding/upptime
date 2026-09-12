@@ -1,7 +1,7 @@
 url: https://api.merchantsbonding.com/up
-status: down
-code: 503
-responseTime: 90
-lastUpdated: 2026-09-12T14:18:47.237Z
+status: up
+code: 200
+responseTime: 114
+lastUpdated: 2026-09-12T14:54:36.476Z
 startTime: 2025-10-23T18:54:42.444Z
 generator: Upptime <https://github.com/upptime/upptime>
