@@ -1,7 +1,7 @@
 url: https://credit-puller.merchantsbonding.com/up
-status: up
-code: 200
-responseTime: 465
-lastUpdated: 2026-09-11T23:06:24.132Z
+status: down
+code: 503
+responseTime: 81
+lastUpdated: 2026-09-12T14:19:28.560Z
 startTime: 2025-10-23T18:54:45.557Z
 generator: Upptime <https://github.com/upptime/upptime>
