@@ -1,7 +1,7 @@
 url: https://commish.merchantsbonding.com/up
-status: up
-code: 200
-responseTime: 450
-lastUpdated: 2026-09-11T23:06:23.645Z
+status: down
+code: 503
+responseTime: 210
+lastUpdated: 2026-09-12T14:19:15.043Z
 startTime: 2025-10-23T18:54:44.143Z
 generator: Upptime <https://github.com/upptime/upptime>
