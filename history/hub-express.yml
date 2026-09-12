@@ -1,7 +1,7 @@
 url: https://hubexpress.merchantsbonding.com/up
-status: up
-code: 200
-responseTime: 426
-lastUpdated: 2026-09-11T23:06:25.886Z
+status: down
+code: 503
+responseTime: 85
+lastUpdated: 2026-09-12T14:20:22.396Z
 startTime: 2025-10-23T18:54:48.629Z
 generator: Upptime <https://github.com/upptime/upptime>
