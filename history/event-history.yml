@@ -1,7 +1,7 @@
 url: https://event-history.merchantsbonding.com/up
-status: down
-code: 503
-responseTime: 92
-lastUpdated: 2026-09-12T14:19:42.062Z
+status: up
+code: 200
+responseTime: 178
+lastUpdated: 2026-09-12T14:54:38.098Z
 startTime: 2025-10-23T18:54:46.281Z
 generator: Upptime <https://github.com/upptime/upptime>
