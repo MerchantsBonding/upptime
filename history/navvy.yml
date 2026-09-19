@@ -1,7 +1,7 @@
 url: https://navigator.merchantsbonding.com/up
-status: down
-code: 503
-responseTime: 23
-lastUpdated: 2026-09-19T16:21:28.225Z
+status: up
+code: 200
+responseTime: 295
+lastUpdated: 2026-09-19T16:29:49.120Z
 startTime: 2025-10-23T18:54:49.827Z
 generator: Upptime <https://github.com/upptime/upptime>
