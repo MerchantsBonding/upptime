@@ -1,7 +1,7 @@
 url: https://rating-engine.merchantsbonding.com/up
-status: up
-code: 200
-responseTime: 433
-lastUpdated: 2026-09-18T23:06:39.739Z
+status: down
+code: 503
+responseTime: 26
+lastUpdated: 2026-09-19T16:22:32.920Z
 startTime: 2025-10-23T18:54:54.950Z
 generator: Upptime <https://github.com/upptime/upptime>
