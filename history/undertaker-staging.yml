@@ -1,7 +1,7 @@
 url: https://underwriting.mbctestweb.com/up
-status: down
-code: 503
-responseTime: 67
-lastUpdated: 2026-11-07T12:54:01.429Z
+status: up
+code: 200
+responseTime: 233
+lastUpdated: 2026-11-07T13:10:30.572Z
 startTime: 2025-10-23T18:55:09.143Z
 generator: Upptime <https://github.com/upptime/upptime>
