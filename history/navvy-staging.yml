@@ -1,7 +1,7 @@
 url: https://navigator.mbctestweb.com/up
-status: down
-code: 503
-responseTime: 50
-lastUpdated: 2026-11-07T12:53:06.733Z
+status: up
+code: 200
+responseTime: 191
+lastUpdated: 2026-11-07T13:10:28.518Z
 startTime: 2025-10-23T18:55:06.094Z
 generator: Upptime <https://github.com/upptime/upptime>
