@@ -1,7 +1,7 @@
 url: https://secure2.merchantsbonding.com/up
-status: down
-code: 503
-responseTime: 71
-lastUpdated: 2026-11-07T14:09:33.276Z
+status: up
+code: 200
+responseTime: 302
+lastUpdated: 2026-11-07T14:14:59.766Z
 startTime: 2025-10-22T17:31:59.560Z
 generator: Upptime <https://github.com/upptime/upptime>
