@@ -1,7 +1,7 @@
 url: https://secure2.mbctestweb.com/up
-status: down
-code: 503
-responseTime: 4102
-lastUpdated: 2026-11-22T08:34:29.477Z
+status: up
+code: 200
+responseTime: 19643
+lastUpdated: 2026-11-22T08:41:59.641Z
 startTime: 2025-10-22T20:03:58.397Z
 generator: Upptime <https://github.com/upptime/upptime>
